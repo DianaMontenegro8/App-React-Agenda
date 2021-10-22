@@ -1,0 +1,16 @@
+{
+  "contactos": [
+    {
+      "id": 2,
+      "nome": "bretwi",
+      "email": "rivas@gmail.com",
+      "telefone": "89 2344 8927"
+    },
+    {
+      "id": 3,
+      "nome": "Dani",
+      "email": "Dani@gmail.com",
+      "telefone": "65 3765 2543"
+    }
+  ]
+}
